@@ -58,6 +58,7 @@ a:hover{
 
 .profile{
     background-color: #FCFEFE;
+   
 }
 
 .circle-img{
@@ -72,19 +73,20 @@ a:hover{
 }
 
 .code-img{
-    width: 25%;
+
+    width: 50%;
     float: left;
-    padding-right: 30px;
+    padding-right: 20px; 
+    clip-path: circle();
     
-   
 }
 .computer-img{
-  
-    width: 25%;
+
+    width: 50%;
     float: right;
-    padding-left: 30px;
-    
-    
+    padding-left: 20px;
+    clip-path: circle();
+     
 }
 
 .top-container {
@@ -112,8 +114,16 @@ a:hover{
 
 }
 
-.skill-row{
-    width: 50%;
+.skill-row1{
+    width: 70%;
+    margin: 100px auto;
+    text-align: left;
+    padding-bottom: 50px;
+    
+}
+
+.skill-row2{
+    width: 70%;
     margin: 100px auto;
     text-align: left;
     
