@@ -178,6 +178,10 @@ a:hover{
 
 }
 
+.contact-me{
+    margin-bottom: 60px;
+}
+
 .btn {
     background: #15d8db;
     background-image: -webkit-linear-gradient(top, #15d8db, #15a3ad);
