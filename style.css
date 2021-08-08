@@ -37,14 +37,14 @@ hr{
 }
 
 a{
-    color: #11999E;
+    color: #EAF6F6;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
 }
 
 a:hover{
-    color: #EAF6F6;
+    color: #11999E;
 }
 
 .intro{
@@ -83,7 +83,7 @@ a:hover{
 
 .photo2{
     
-    padding-right: 50px;
+    padding-left: 50px;
     float: right;
     padding-bottom: 10px;
    
@@ -93,13 +93,15 @@ a:hover{
 .code-img{
     
     float: left;
-    height: 15em;
-    width: 15em;
+    height: 18em;
+    width: 18em;
     border-radius: 50%;
     object-fit: cover;
     
     
 }
+
+
 .computer-img{
 
     float: right;
@@ -107,6 +109,7 @@ a:hover{
     width: 15em;
     border-radius: 50%;
     object-fit: cover;
+    
     
 }
 
@@ -200,6 +203,7 @@ a:hover{
     background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
+    color: #EAF6F6
     
   }
 
