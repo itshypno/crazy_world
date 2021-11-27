@@ -56,19 +56,15 @@ a:hover{
 
 }
 
-.profile{
-    background-color: #FCFEFE;
-   
-}
 
 .circle-img{
     border-radius: 50%;
+    background-color: #FCFEFE;
+    background-image: url("profile1.jpg");
     width: 250px;
     height: 250px;
-    background-image: url("profile1.JPG");
-    background-size: cover;
     margin: 100px auto;
-    background-color: #FCFEFE;
+    background-size: cover;
   
 }
 
@@ -118,6 +114,8 @@ a:hover{
     background-color: #EAF6F6; 
     padding-top: 100px;
     position: relative;
+   
+
 }
 
 .bottom-cloud{
